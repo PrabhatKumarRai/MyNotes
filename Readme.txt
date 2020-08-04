@@ -1,6 +1,14 @@
+---------------
 --- MyNotes ---
+---------------
 #MyNotes is a quick notes adding php based web application
 
+--Technologies Used--
+=> Html
+=> CSS
+=> Bootstrap
+=> Javascript
+=> PHP
 
 
 -- Installation --
