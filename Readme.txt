@@ -1,7 +1,7 @@
 ---------------
 --- MyNotes ---
 ---------------
-#MyNotes is a quick notes adding php based web application
+#MyNotes is a quick notes management php based web application which makes creating notes and articles easy yet beautiful.
 
 --Technologies Used--
 => Html
