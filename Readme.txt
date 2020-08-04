@@ -9,6 +9,7 @@
 => Bootstrap
 => Javascript
 => PHP
+=> MySql
 
 
 -- Installation --
