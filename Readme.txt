@@ -1,7 +1,4 @@
----------------
---- MyNotes ---
----------------
-#MyNotes is a quick notes management php based web application which makes creating notes and articles easy yet beautiful.
+#MyNotes is a quick note management web application that makes creating notes and articles seamless.
 
 --Technologies Used--
 => Html
@@ -13,10 +10,10 @@
 
 
 -- Installation --
-=> Download and Paste the entire directory contents in your projects folder (under htdocs folder in xampp and under www folder in wamp)
+=> Download and Paste the directory contents in your project's root folder.
 
-=> You can rename the project directory as per your requirement but after renaming the directory, make sure to update the "config.php" file under the includes folder with the current base URL
+=> You have the option of renaming the project directory as per your requirement. Update the "config.php" file under the includes folder with the current URL.
 
-=> Open phpmyadmin (make sure that your Apache and mysql servers are started) in your browser and under the SQL tab, paste the entire contents of "mynotes.sql" file under the assets/SQL folder and execute the command
+=> Open phpMyAdmin (make sure that your Apache and MySQL servers are running) in your browser and under the SQL tab, paste the contents of "mynotes.sql" file under the assets/SQL folder and execute the command.
 
-=> Now you can run the project in your browser
+=> You can now run the project in your browser and start creating notes. 
