@@ -10,7 +10,7 @@
 
 
 -- Installation --
-=> Download and Paste the directory contents in your project's root folder.
+=> Download and Paste the directory contents in your server's root folder.
 
 => You have the option of renaming the project directory as per your requirement. Update the "config.php" file under the includes folder with the current URL.
 
